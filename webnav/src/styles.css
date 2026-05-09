@@ -72,3 +72,16 @@ td {
   color: purple;
 }
 /********************************/
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none; /* Removes the underline */
+  border-radius: 5px;
+  text-align: center;
+}
+
+.button:hover {
+  background-color: #0056b3; /* Changes color when hovering */
+}
