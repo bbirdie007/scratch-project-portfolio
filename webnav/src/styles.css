@@ -72,7 +72,7 @@ td {
   color: purple;
 }
 /********************************/
-.button {
+button {
   display: inline-block;
   padding: 10px 20px;
   background-color: #007bff;
@@ -82,6 +82,6 @@ td {
   text-align: center;
 }
 
-.button:hover {
+button:hover {
   background-color: #0056b3; /* Changes color when hovering */
 }
