@@ -1,1 +1,74 @@
+.btn-touch {
+  cursor: pointer;
+}
+body {
+  background-color: rgb(200, 255, 255);
+  font-family: "Comic Sans MS", sans-serif;
+  color: Purple;
+}
+h1 {
+  color: DarkBlue;
+  font-family: "Comic Sans MS", serif;
+}
+h2 {
+  font-family: "Comic Sans MS", serif;
+}
+h3 {
+  font-style: italic;}
+h6 {
+  color: Orange;
+  
+}
+a {
+  color: Blue;
+}
+nav ul {
+  background-color: White;
+  border-style: solid;
+  border-color: White;
+  border-width: 2px;
+  padding: 10px;
+  border-radius: 10px;
+}
+nav ul li {
+  list-style-type: none;
+  display: inline;
+  margin-right: 10px;
+  margin-left: 10px;
+  color: Black;
+}
+nav ul li a {
+  text-decoration: none;
+  color: LightGrey;
+}
+img {
+  border-radius: 0px;
+}
 
+
+
+
+
+
+/**********************************
+This section is for styling tables
+***********************************/
+table, th, td {
+  border: 1px solid HoneyDew;
+  border-collapse: collapse;
+}
+tr {
+  background-color: PaleTurquoise;
+}
+th, td {
+  vertical-align: top;
+  padding: 5px;
+  text-align: left;
+}
+th {
+  color: purple;
+}
+td {
+  color: purple;
+}
+/********************************/
